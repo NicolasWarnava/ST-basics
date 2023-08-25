@@ -11,6 +11,7 @@ número de vagas disponíveis, a sinalização de um semáforo vermelho caso o n
 vagas seja igual a MAX_VAGAS, uma constante do programa, e a sinalização de um
 semáforo verde caso o estacionamento esteja vazio. Utilize a tela da IHM para mostrar as
 informações.
+
 B==>----------------------------------
 
           ^
